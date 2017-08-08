@@ -37,10 +37,10 @@ public class Consumer implements Runnable {
 
         /* wait if the buffer is empty */
         while (sharedBuffer.isEmpty()) {
-            synchronized (sharedBuffer) {
+            synchronized (sharedBuffer) { // acquiring lock on sharedBuffer
                 System.out.println("Buffer is empty. " + Thread.currentThread().getName() + " is waiting...");
 
-                sharedBuffer.wait();
+                sharedBuffer.wait(); // Releasing the lock , so that Producer can produce on sharedBuffer
             }
         }
 

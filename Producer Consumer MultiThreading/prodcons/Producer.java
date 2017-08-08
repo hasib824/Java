@@ -37,10 +37,10 @@ public class Producer implements Runnable {
 
         /* wait if buffer is full */
         while (sharedBuffer.isFull()) {
-            synchronized (sharedBuffer) {
+            synchronized (sharedBuffer) { // Acquiring the lock on SharedBuffer
                 System.out.println("Buffer is full. " + Thread.currentThread().getName() + " is waiting...");
 
-                sharedBuffer.wait();
+                sharedBuffer.wait(); // Releasing the lock , so that Consumer can consume from SharedBuffer
             }
         }
 
