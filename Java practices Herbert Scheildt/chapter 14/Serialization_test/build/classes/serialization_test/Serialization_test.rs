@@ -1,0 +1,3 @@
+serialization_test.Serialization_test
+serialization_test.Myobject
+serialization_test.My

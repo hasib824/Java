@@ -1,0 +1,3 @@
+serialization_test.JavaApplication12
+serialization_test.Myobject
+serialization_test.My

@@ -1,0 +1,3 @@
+inheritance.dog
+inheritance.Inheritance
+inheritance.animal
