@@ -1,7 +1,7 @@
 <h1>United development</h1>
-- **Using of super keyword** : Herbert Scheildt Book page 167 to 170
+  - **Using of super keyword :** Herbert Scheildt Book page 167 to 170
 
-- **Using of this keyword **
+- **Using of this keyword :**
  https://www.javatpoint.com/this-keyword
 
 - **Method and constructor Overloading :**  Herbert Scheildt Book page 129 to 134
@@ -16,4 +16,4 @@
 
 - ** Generics** : [Durgasoft video](https://www.youtube.com/watch?v=watjoMfP-3M&list=PLd3UqWTnYXOn4AAHRh5lmOXhoU0tZwTfU) , [durga Class note page 345 - 360](https://drive.google.com/file/d/1MFrGNJ8A803z-QF1WgP2OYohEtv3Vt9-/view?usp=sharing)
 
-- ** Multithreading ** Herberscheildt book chapter 11 , [Durgasoft Video](https://www.youtube.com/watch?v=Hysb7hXp8B0&list=PLd3UqWTnYXOlHj_fVVjUIVHjD5uEy2kk4) , [Durga class notes page ](365 to 412)
+- ** Multithreading ** Herberscheildt book chapter 11 , [Durgasoft Video](https://www.youtube.com/watch?v=Hysb7hXp8B0&list=PLd3UqWTnYXOlHj_fVVjUIVHjD5uEy2kk4) , [Durga class notes page 365 to 412](https://drive.google.com/file/d/1MFrGNJ8A803z-QF1WgP2OYohEtv3Vt9-/view?usp=sharing)
