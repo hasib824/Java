@@ -1,0 +1,48 @@
+
+package javaapplication1;
+import java.util.*;
+
+public class JavaApplication1 {
+
+   
+    public static void main(String[] args) {
+        Myclass<Integer,String> asd = new Myclass();
+        asd.setA(10);
+        System.out.println("Result is : "+asd.getA());
+        
+        ArrayList<Double> al = new ArrayList();
+        al.add(10.0);
+        al.add(20.2);
+        asd.setArraylist(al);
+        
+        asd.setE("Hasibuzzaman");
+        System.out.println("Get String : "+ asd.getE());
+    }
+    
+}
+               
+class Myclass<T extends  Number,E >
+{   private T a; //T is Bounded of Number Type
+    private E e;
+   private ArrayList<? extends Number> l= new ArrayList();
+   void setE(E e)
+   {
+       this.e = e;
+   }
+   E getE()
+   {
+    return e;
+   }
+    void setA(T a)
+    {
+        this.a = a;
+    }
+    T getA()
+    {
+        return a;
+    }
+    void setArraylist(ArrayList< ? extends Number> al)
+    {
+        this.l=  al;
+    }
+}
