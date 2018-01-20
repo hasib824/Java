@@ -12,7 +12,7 @@
 
 - **Interface **  : Herbert Scheildt 196-206
 
-- ** Exception Handling ** : [Tarek sir Slide](https://drive.google.com/drive/folders/1n9v12xcT7KtP2gHyRlL-KvsRhqVRt2-i?usp=sharing) , Herberscheildt 213-224
+- ** Exception Handling ** : [Tarek sir Slide](https://drive.google.com/drive/folders/1n9v12xcT7KtP2gHyRlL-KvsRhqVRt2-i?usp=sharing) , Herberscheildt 213-224, [Checked vs Unchacked exception by Durga](https://www.youtube.com/watch?v=V_1IEx15QmE)
 
 - ** Generics** : [Durgasoft video](https://www.youtube.com/watch?v=watjoMfP-3M&list=PLd3UqWTnYXOn4AAHRh5lmOXhoU0tZwTfU) , [durga Class note page 345 - 360](https://drive.google.com/file/d/1MFrGNJ8A803z-QF1WgP2OYohEtv3Vt9-/view?usp=sharing)
 
