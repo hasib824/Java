@@ -1,0 +1,2 @@
+Please follow the link below : 
+ http://indragni.com/blog/2014/10/15/how-to-stop-a-thread-gracefully-in-java/
